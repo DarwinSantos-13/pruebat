@@ -1,0 +1,47 @@
+.logo_yotoys {
+    bottom: 80px; 
+    width: 300px !important;
+    height: 180px !important;
+    position: relative;
+    left: 39.5%
+}
+
+.btn_yotoys10{
+    background-color: #55bfab;
+    color: white;
+    position: absolute;
+    top: 1275px;
+    left: 230px;
+    width: 160px;
+    height: 40px;
+    text-align: center;
+    padding-top: 8px;
+    border-radius: 2px;
+}
+
+
+.btn_yotoys20{
+    background-color: #dd57d0;
+    color: white;
+    position: absolute;
+    top: 1275px;
+    left: 630px;
+    width: 160px;
+    height: 40px;
+    text-align: center;
+    padding-top: 8px;
+    border-radius: 2px;
+}
+
+.btn_yotoys30{
+    background-color: #637ee0;
+    color: white;
+    position: absolute;
+    top: 1275px;
+    left: 1050px;
+    width: 160px;
+    height: 40px;
+    text-align: center;
+    padding-top: 8px;
+    border-radius: 2px;
+}
